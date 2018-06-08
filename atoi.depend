@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499080369 source:c:\alanx\testsubleq\atoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
